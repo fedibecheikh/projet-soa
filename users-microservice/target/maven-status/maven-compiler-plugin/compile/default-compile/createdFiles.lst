@@ -1,8 +1,10 @@
 com\fedi\users\security\SecurityConfig.class
 com\fedi\users\entities\Role.class
+com\fedi\users\security\SecurityConfig$1.class
 com\fedi\users\UsersMicroserviceApplication.class
 com\fedi\users\repos\UserRepository.class
 com\fedi\users\security\SecurityBeansConfiguration.class
+com\fedi\users\web\UserRestController.class
 com\fedi\users\security\MyUserDetailsService.class
 com\fedi\users\service\UserServiceImpl.class
 com\fedi\users\security\JWTAuthenticationFilter.class
