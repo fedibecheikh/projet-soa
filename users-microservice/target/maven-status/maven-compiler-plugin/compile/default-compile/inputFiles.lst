@@ -1,0 +1,12 @@
+C:\Users\MSI\Desktop\backend_soa\users-microservice\src\main\java\com\fedi\users\repos\RoleRepository.java
+C:\Users\MSI\Desktop\backend_soa\users-microservice\src\main\java\com\fedi\users\repos\UserRepository.java
+C:\Users\MSI\Desktop\backend_soa\users-microservice\src\main\java\com\fedi\users\security\SecurityBeansConfiguration.java
+C:\Users\MSI\Desktop\backend_soa\users-microservice\src\main\java\com\fedi\users\security\MyUserDetailsService.java
+C:\Users\MSI\Desktop\backend_soa\users-microservice\src\main\java\com\fedi\users\service\UserService.java
+C:\Users\MSI\Desktop\backend_soa\users-microservice\src\main\java\com\fedi\users\security\JWTAuthenticationFilter.java
+C:\Users\MSI\Desktop\backend_soa\users-microservice\src\main\java\com\fedi\users\security\SecurityConfig.java
+C:\Users\MSI\Desktop\backend_soa\users-microservice\src\main\java\com\fedi\users\entities\Role.java
+C:\Users\MSI\Desktop\backend_soa\users-microservice\src\main\java\com\fedi\users\entities\User.java
+C:\Users\MSI\Desktop\backend_soa\users-microservice\src\main\java\com\fedi\users\service\UserServiceImpl.java
+C:\Users\MSI\Desktop\backend_soa\users-microservice\src\main\java\com\fedi\users\UsersMicroserviceApplication.java
+C:\Users\MSI\Desktop\backend_soa\users-microservice\src\main\java\com\fedi\users\security\SecParams.java
